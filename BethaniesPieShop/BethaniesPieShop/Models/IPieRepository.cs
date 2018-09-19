@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using Microsoft.AspNetCore.Cors.Infrastructure;
 
 namespace BethaniesPieShop.Models
 {
