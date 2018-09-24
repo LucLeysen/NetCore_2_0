@@ -1,0 +1,7 @@
+namespace BethaniesPieShop.Models
+{
+    public interface IFeedbackRepository
+    {
+         void AddFeedback(Feedback feedback);
+    }
+}
